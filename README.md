@@ -7,9 +7,7 @@
 
 <p align="center">
   <a href="https://kauan-v-marques.github.io/curriculo/"><img src="https://img.shields.io/badge/Curr%C3%ADculo-online-1F6FEB?style=for-the-badge&logo=googledocs&logoColor=white" alt="Currículo online"></a>
-  <a href="mailto:kvictor727@gmail.com"><img src="https://img.shields.io/badge/E--mail-kvictor727%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://instagram.com/kk_victor_m"><img src="https://img.shields.io/badge/Instagram-%40kk__victor__m-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+  <a href="mailto:kvictor727@gmail.com"><img src="https://img.shields.io/badge/E--mail-kvictor727%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a></p>
 
 <p align="center"><a href="#english">🇺🇸 English version below</a></p>
 
