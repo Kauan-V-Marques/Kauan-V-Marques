@@ -31,11 +31,13 @@ Estou no 8º semestre de Engenharia da Computação na Facens. Gosto de desenvol
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,cs,c,cpp,java,js,html,css,ruby&perline=9" alt="Python, C#, C, C++, Java, JavaScript, HTML, CSS, Ruby"><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,flask,opencv,linux,git,github,githubactions,vscode,ps&perline=9" alt=".NET, Flask, OpenCV, Linux, Git, GitHub, GitHub Actions, VS Code, Photoshop">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,flask,sklearn,opencv,arduino,mysql,postgres,mongodb&perline=9" alt=".NET, Spring, Flask, scikit-learn, OpenCV, Arduino, MySQL/MariaDB, PostgreSQL, MongoDB"><br>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,maven,vscode,ps&perline=9" alt="Docker, GitHub Actions, Linux, Git, GitHub, Maven, VS Code, Photoshop">
 </p>
 
-**Hardware:** modelagem 3D (CAD), Altium Designer, circuitos eletrônicos e sistemas embarcados<br>
-**Também:** Assembly, Pascal, machine learning, Excel (VBA) e Power BI
+**Bancos de dados:** MariaDB/MySQL, PostgreSQL, MongoDB e SQL (procedures, triggers, funções de janela)<br>
+**Hardware:** modelagem 3D (CAD), Altium Designer, circuitos eletrônicos, sistemas embarcados (Arduino, ESP32, PlatformIO)<br>
+**Também:** Assembly, Pascal, pandas, Jupyter, Excel (VBA) e Power BI
 
 ### 🚀 Projetos em destaque
 
@@ -43,17 +45,33 @@ Estou no 8º semestre de Engenharia da Computação na Facens. Gosto de desenvol
 Interface web para pilotar a distância um AGV (veículo guiado automaticamente) de baixo custo, com vídeo RGB, mapa de profundidade do Kinect v1 e HUD de telemetria sobre o vídeo. O AGV aprende a dirigir com o operador e mapeia o ambiente sem encoders. Projeto de extensão desenvolvido em equipe e base de um artigo de pesquisa.<br>
 `Python` `Flask` `OpenCV` `NumPy` `Kinect v1` `Linux` `GitHub Actions`
 
-**[Currículo online](https://kauan-v-marques.github.io/curriculo/)**<br>
-Meu currículo em página web responsiva, em português e inglês, com versão pronta para imprimir ou salvar em PDF.<br>
-`HTML` `CSS` `JavaScript` `GitHub Pages`
+#### Back-end e bancos de dados
 
-**[Jogo da Velha em C](https://github.com/Kauan-V-Marques/jogo-da-velha-c)**<br>
-Jogo para dois jogadores no terminal, com validação de jogadas e detecção de vitória e empate. Compilado e testado automaticamente no GitHub Actions.<br>
-`C` `GitHub Actions`
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**estoque-pcp-api**](https://github.com/Kauan-V-Marques/estoque-pcp-api) | Estoque e ordens de produção: consome matéria-prima e dá entrada no produto em uma transação | C# · .NET 10 · MariaDB · Dapper · Docker |
+| [**reserva-labs-spring**](https://github.com/Kauan-V-Marques/reserva-labs-spring) | Reserva de laboratórios sem sobreposição (lock pessimista + exclusion constraint) | Java 25 · Spring Boot 4 · PostgreSQL · Flyway |
+| [**robotica-api-flask**](https://github.com/Kauan-V-Marques/robotica-api-flask) | Competições de robótica com ranking calculado por pipelines de agregação | Python · Flask · MongoDB · Pydantic |
+| [**oficina-sql-mariadb**](https://github.com/Kauan-V-Marques/oficina-sql-mariadb) | Banco de uma oficina com triggers, procedures, views e 30 testes em SQL | SQL · MariaDB |
 
-**[Python: primeiros estudos](https://github.com/Kauan-V-Marques/Python-aulas)**<br>
-Notebooks com os exercícios dos meus primeiros passos em Python, prontos para abrir no Google Colab.<br>
-`Python` `Jupyter`
+#### Robótica, visão computacional e IA
+
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**seguidor-linha-pid**](https://github.com/Kauan-V-Marques/seguidor-linha-pid) | Firmware de robô seguidor de linha com PID, máquina de estados e testes no PC | C++ · Arduino · ESP32 · PlatformIO |
+| [**visao-computacional-opencv**](https://github.com/Kauan-V-Marques/visao-computacional-opencv) | Rastreamento de objetos por cor e leitura de linha para robô seguidor | Python · OpenCV · NumPy |
+| [**previsao-falhas-ml**](https://github.com/Kauan-V-Marques/previsao-falhas-ml) | Manutenção preditiva: prevê 85% das falhas de máquinas com 91% de precisão | scikit-learn · pandas · Jupyter · Flask |
+
+#### Front-end
+
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**ranking-robotica-web**](https://kauan-v-marques.github.io/ranking-robotica-web/) | Painel ao vivo do ranking das competições, consumindo a API de robótica | HTML · CSS · JavaScript |
+| [**curriculo**](https://kauan-v-marques.github.io/curriculo/) | Meu currículo online em PT/EN, com versão para PDF | HTML · CSS · JavaScript |
+
+Cada projeto das tabelas (menos o currículo) tem testes automatizados rodando no **GitHub Actions**, com bancos de dados reais nos de back-end, e README explicando as decisões técnicas e como rodar.
+
+<sub>Primeiros projetos: [jogo da velha em C](https://github.com/Kauan-V-Marques/jogo-da-velha-c) e [estudos de Python](https://github.com/Kauan-V-Marques/Python-aulas).</sub>
 
 ### 🏆 Conquistas
 
@@ -77,6 +95,7 @@ I'm a Computer Engineering student at Facens (Sorocaba, Brazil), in my 8th semes
 - 🤖 **Robotics:** electronics captain of the OmegaBotz team, leading circuits and embedded systems
 - 🧪 **Before:** project intern at LINCE, the Facens Student Innovation and Competitions Lab (3D modeling, mechanical tuning and electronics integration)
 - 🔬 **Research:** teleoperated AGV with augmented reality, built with Python, Flask, OpenCV and Kinect v1
+- 💻 **Portfolio:** REST APIs in C#/.NET, Java/Spring and Python/Flask backed by MariaDB, PostgreSQL and MongoDB; PID line-follower firmware (C++/ESP32); computer vision (OpenCV); predictive maintenance with scikit-learn. All tested in CI
 - 🏆 **Competitions:** 8 robotics competitions since 2024 with OmegaBotz, winning trophies as a team
 - 🌎 **Languages:** Portuguese (native), English (advanced), Spanish (intermediate), Japanese (basic)
 - 📫 **Open to new opportunities.** Reach me at [kvictor727@gmail.com](mailto:kvictor727@gmail.com) or see my [online resume](https://kauan-v-marques.github.io/curriculo/?lang=en).
