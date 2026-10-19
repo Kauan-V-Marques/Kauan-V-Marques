@@ -17,13 +17,14 @@
 
 ### 🧑‍💻 Sobre mim
 
-Estou no 8º semestre de Engenharia da Computação na Facens. Gosto de desenvolver em várias frentes: programação, hardware, mecânica e design. Para mim, engenharia é resolver problemas, e é isso que me motiva: quanto maior o desafio, melhor.
+Estou no 8º semestre de Engenharia da Computação na Facens. Gosto de desenvolver em várias frentes: programação, eletrônica, mecânica e design. Para mim, engenharia é resolver problemas, e é isso que me motiva: quanto maior o desafio, melhor.
 
 - 🔧 **Hoje:** estagiário de engenharia de sustentação, no desenvolvimento e manutenção de software para sistemas semafóricos
-- 🧪 **Antes:** estagiário de projetos no LINCE, o Laboratório de Inovação e Competições da Facens
-- 🤖 **Pesquisa:** AGV teleoperado com realidade aumentada (projeto de extensão da Facens)
-- 🏆 **Competições:** 8 competições de robótica desde 2024, com troféus conquistados em equipe
-- 🌎 **Idiomas:** português nativo e inglês avançado
+- 🤖 **Robótica:** capitão de eletrônica da equipe OmegaBotz, liderando circuitos e sistemas embarcados
+- 🧪 **Antes:** estagiário de projetos no LINCE, o Laboratório de Inovação e Competições da Facens, com modelagem 3D, ajustes mecânicos e integração eletrônica
+- 🔬 **Pesquisa:** AGV teleoperado com realidade aumentada (projeto de extensão da Facens)
+- 🏆 **Competições:** 8 competições de robótica desde 2024 com a OmegaBotz, com troféus conquistados em equipe
+- 🌎 **Idiomas:** português nativo, inglês avançado, espanhol intermediário e japonês básico
 - 📫 **Aberto a novas oportunidades**
 
 ### 🛠️ Tecnologias
@@ -33,7 +34,8 @@ Estou no 8º semestre de Engenharia da Computação na Facens. Gosto de desenvol
   <img src="https://skillicons.dev/icons?i=dotnet,flask,opencv,linux,git,github,githubactions,vscode,ps&perline=9" alt=".NET, Flask, OpenCV, Linux, Git, GitHub, GitHub Actions, VS Code, Photoshop">
 </p>
 
-Também já programei em **Assembly** e **Pascal**.
+**Hardware:** modelagem 3D (CAD), Altium Designer, circuitos eletrônicos e sistemas embarcados<br>
+**Também:** Assembly, Pascal, machine learning, Excel (VBA) e Power BI
 
 ### 🚀 Projetos em destaque
 
@@ -55,7 +57,7 @@ Notebooks com os exercícios dos meus primeiros passos em Python, prontos para a
 
 ### 🏆 Conquistas
 
-- **Competições de robótica**, com troféus conquistados em equipe:
+- **Competições de robótica** com a equipe OmegaBotz, com troféus conquistados em equipe:
   - RSM Challenge Internacional: 2024, 2025 e 2026 (Mogi das Cruzes, SP)
   - RoboCore Experience na Campus Party Brasil: CPBR16 (2024, São Paulo) e CPBR17 (2025, Brasília)
   - IRONCup 2025 (Inatel, Santa Rita do Sapucaí, MG)
@@ -69,11 +71,12 @@ Notebooks com os exercícios dos meus primeiros passos em Python, prontos para a
 
 ### 🇺🇸 English
 
-I'm a Computer Engineering student at Facens (Sorocaba, Brazil), in my 8th semester. I love building across disciplines: software, hardware, mechanics and design. To me, engineering is about solving problems, and that's what drives me: the bigger the challenge, the better.
+I'm a Computer Engineering student at Facens (Sorocaba, Brazil), in my 8th semester. I love building across disciplines: software, electronics, mechanics and design. To me, engineering is about solving problems, and that's what drives me: the bigger the challenge, the better.
 
 - 🔧 **Now:** sustaining engineering intern, developing and maintaining software for traffic signal systems
-- 🧪 **Before:** project intern at LINCE, the Facens Student Innovation and Competitions Lab
-- 🤖 **Research:** teleoperated AGV with augmented reality, built with Python, Flask, OpenCV and Kinect v1
-- 🏆 **Competitions:** 8 robotics competitions since 2024, winning trophies with my team
-- 🌎 **Languages:** Portuguese (native), English (advanced)
-- 📫 **Open to new opportunities.** Reach me at kvictor727@gmail.com or see my [online resume](https://kauan-v-marques.github.io/curriculo/?lang=en).
+- 🤖 **Robotics:** electronics captain of the OmegaBotz team, leading circuits and embedded systems
+- 🧪 **Before:** project intern at LINCE, the Facens Student Innovation and Competitions Lab (3D modeling, mechanical tuning and electronics integration)
+- 🔬 **Research:** teleoperated AGV with augmented reality, built with Python, Flask, OpenCV and Kinect v1
+- 🏆 **Competitions:** 8 robotics competitions since 2024 with OmegaBotz, winning trophies as a team
+- 🌎 **Languages:** Portuguese (native), English (advanced), Spanish (intermediate), Japanese (basic)
+- 📫 **Open to new opportunities.** Reach me at [kvictor727@gmail.com](mailto:kvictor727@gmail.com) or see my [online resume](https://kauan-v-marques.github.io/curriculo/?lang=en).
